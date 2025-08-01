@@ -32,4 +32,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/dirshaye/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/dirshaye/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [2235-capitalize-the-title](https://github.com/dirshaye/leetcode-solutions/tree/master/2235-capitalize-the-title) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/dirshaye/leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
+## Hash Table
+|  |
+| ------- |
+| [3408-count-the-number-of-special-characters-i](https://github.com/dirshaye/leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
