@@ -1,11 +1,11 @@
 class Solution:
     def capitalizeTitle(self, title: str) -> str:
-        title_list = title.split()
-        new_title = ''
-        for st in title_list:
-            if len(st) <= 2:
-                new_title += st.lower() + ' '
+        words = title.split()
+        result = []
+        for word in words:
+            if len(word) <= 2:
+                result.append(word.lower())
             else:
-                new_title += st.lower().capitalize() + ' '
+                result.append(word[0].upper() + word[1:].lower())
 
-        return new_title.strip()
+        return ' '.join(result)
