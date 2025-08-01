@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dirshaye/leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/dirshaye/leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/dirshaye/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
