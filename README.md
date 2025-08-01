@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dirshaye/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/dirshaye/leetcode-solutions/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
