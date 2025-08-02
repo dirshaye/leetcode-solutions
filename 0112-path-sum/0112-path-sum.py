@@ -7,12 +7,18 @@
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
         if not root:
-            return False 
+          return False
 
+        # modify the node in-place to store cumulative sum
+        if root.left:
+            root.left.val += root.val
+        if root.right:
+            root.right.val += root.val
+
+        # check at leaf
         if not root.left and not root.right:
-            return targetSum == root.val
-        
-        remaining_sum = targetSum- root.val
+            return root.val == targetSum
 
-        return self.hasPathSum(root.left, remaining_sum) or self.hasPathSum(root.right, remaining_sum)
-       
+        return self.hasPathSum(root.left, targetSum) or self.hasPathSum(root.right, targetSum)
+
+    
