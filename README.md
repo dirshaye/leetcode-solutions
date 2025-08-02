@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dirshaye/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0112-path-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dirshaye/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0112-path-sum) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dirshaye/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dirshaye/leetcode-solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dirshaye/leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/dirshaye/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dirshaye/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -79,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
