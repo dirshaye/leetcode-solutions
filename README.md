@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dirshaye/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/dirshaye/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [1005-univalued-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dirshaye/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/dirshaye/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [1005-univalued-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -101,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dirshaye/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
