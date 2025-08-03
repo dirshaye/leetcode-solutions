@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/dirshaye/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dirshaye/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dirshaye/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dirshaye/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dirshaye/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
