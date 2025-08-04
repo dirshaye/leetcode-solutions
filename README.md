@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dirshaye/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1039-find-the-town-judge](https://github.com/dirshaye/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dirshaye/leetcode-solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dirshaye/leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Array
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dirshaye/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0463-island-perimeter](https://github.com/dirshaye/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dirshaye/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1039-find-the-town-judge](https://github.com/dirshaye/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [1039-find-the-town-judge](https://github.com/dirshaye/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/dirshaye/leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dirshaye/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
