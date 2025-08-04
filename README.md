@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [1916-find-center-of-star-graph](https://github.com/dirshaye/leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dirshaye/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
