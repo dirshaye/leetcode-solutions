@@ -1,13 +1,3 @@
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
-        from collections import defaultdict
-        graph = defaultdict(list)
-
-        for u, v in edges:
-            graph[u].append(v)
-            graph[v].append(u)
-
-        for node, values in graph.items():
-            if len(values) > 1:
-                return node
-        
+        return edges[0][0] if edges[0][0] in edges[1] else edges[0][1]
