@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/dirshaye/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [1005-univalued-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dirshaye/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/dirshaye/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [1005-univalued-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dirshaye/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dirshaye/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/dirshaye/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
