@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/dirshaye/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/dirshaye/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [1005-univalued-binary-tree](https://github.com/dirshaye/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/dirshaye/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dirshaye/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/dirshaye/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/dirshaye/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dirshaye/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1036-rotting-oranges](https://github.com/dirshaye/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/dirshaye/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
@@ -147,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dirshaye/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/dirshaye/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/dirshaye/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/dirshaye/leetcode-solutions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
