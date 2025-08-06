@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/dirshaye/leetcode-solutions/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/dirshaye/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/dirshaye/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dirshaye/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/dirshaye/leetcode-solutions/tree/master/0394-decode-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/dirshaye/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/dirshaye/leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
