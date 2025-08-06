@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/dirshaye/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/dirshaye/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dirshaye/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/dirshaye/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dirshaye/leetcode-solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dirshaye/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dirshaye/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/dirshaye/leetcode-solutions/tree/master/0394-decode-string) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/dirshaye/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/dirshaye/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
