@@ -8,8 +8,8 @@ class Solution:
 
             dfs(i+1, path + [nums[i]])
             dfs(i+1, path)
-            return result
-
             
-        return dfs(0, [])
+
+        dfs(0, [])
+        return result
         
