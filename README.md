@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/dirshaye/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0394-decode-string](https://github.com/dirshaye/leetcode-solutions/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/dirshaye/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0647-palindromic-substrings](https://github.com/dirshaye/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/dirshaye/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0990-verifying-an-alien-dictionary](https://github.com/dirshaye/leetcode-solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dirshaye/leetcode-solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dirshaye/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/dirshaye/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0647-palindromic-substrings](https://github.com/dirshaye/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Enumeration
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dirshaye/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dirshaye/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/dirshaye/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Graph
 |  |
 | ------- |
