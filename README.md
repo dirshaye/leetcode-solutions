@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dirshaye/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/dirshaye/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/dirshaye/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/dirshaye/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dirshaye/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/dirshaye/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/dirshaye/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dirshaye/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/dirshaye/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/dirshaye/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/dirshaye/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/dirshaye/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Enumeration
 |  |
