@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/dirshaye/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dirshaye/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/dirshaye/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/dirshaye/leetcode-solutions/tree/master/0078-subsets) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dirshaye/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/dirshaye/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dirshaye/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/dirshaye/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dirshaye/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1014-k-closest-points-to-origin](https://github.com/dirshaye/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dirshaye/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Geometry
