@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/dirshaye/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/dirshaye/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/dirshaye/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/dirshaye/leetcode-solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dirshaye/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/dirshaye/leetcode-solutions/tree/master/0118-pascals-triangle) |
